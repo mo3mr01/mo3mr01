@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me 👋<br><br>🎓 Data Science student passionate about **Data Science, Machine Learning, and Software Development**.<br>💻 Currently building my skills through projects and hands-on learning.<br>📱 Interested in **Flutter** and mobile app development.<br>🚀 Always learning, building, and looking for new challenges.<br>
+🎓 Data Science student passionate about **Data Science, Machine Learning, and Software Development**.<br>💻 Currently building my skills through projects and hands-on learning.<br>📱 Interested in **Flutter** and mobile app development.<br>🚀 Always learning, building, and looking for new challenges.<br>
 
 
 ## 🌐 Socials:
